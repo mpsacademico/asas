@@ -1,0 +1,19 @@
+<?xml	version="1.0"	encoding="UTF-8"?>
+<widget	xmlns="http://www.w3.org/ns/widgets"
+								xmlns:gap="http://phonegap.com/ns/1.0"
+								id="br.com.mps"
+								version="1.0.0">
+				<name>
+								Aplicativo do Marcos
+				</name>
+				<description>
+								Aplicativo Simplista de Aprendizado
+				</description>
+				<author	href=""	
+												email="mpscademico@gmail.com">
+								Marcos Paulo da Silva
+				</author>
+				<preference	name="fullscreen"	value="true"	/>
+				<preference	name="permissions"	value="none"	/>
+				<icon	src="icon.png"	/>
+</widget>
