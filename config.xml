@@ -16,5 +16,5 @@
     
     	<preference name="fullscreen" value="true" />
 	<preference name="permissions" value="none" />
-				
+	<icon src="icon.png" />		
 </widget>
